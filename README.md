@@ -7,7 +7,7 @@
 
 <title>Neon Button</title>
 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css"/>
 </head>
 
 <body>
